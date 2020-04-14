@@ -12,5 +12,5 @@
 
 Main Page               |  Detail Page               
 :-------------------------:|:-------------------------:
-![]https://github.com/AbdulMalikDev/AmazonUIClone/blob/master/4.jpeg?raw=true)|![](https://github.com/AbdulMalikDev/AmazonUIClone/blob/master/5.jpeg?raw=true)|![]
+![](https://github.com/AbdulMalikDev/AmazonUIClone/blob/master/4.jpeg?raw=true)|![](https://github.com/AbdulMalikDev/AmazonUIClone/blob/master/5.jpeg?raw=true)|![]
 
